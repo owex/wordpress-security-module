@@ -1,0 +1,6 @@
+{
+  "name": "Wordpress-security-module",
+  "tagline": "Plug and play security include for Wordpress",
+  "body": "\r\n###  Wordpress security module\r\nPlug and play security include for Wordpress\r\n\r\nInclude this file in your Wordpress Theme functions.php to bring in useful security measures, alternatively cherry pick and manually add to your functions.php file.\r\n```\r\ninclude( get_template_directory() . 'security.php' ); \r\n```\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
