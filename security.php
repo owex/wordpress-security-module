@@ -13,7 +13,7 @@ function remove_author_pages_page() {
 }
 
 function remove_author_pages_link( $content ) {
-	return home_url();exit;
+	return home_url();
 }
 
 add_action( 'template_redirect', 'remove_author_pages_page' );
